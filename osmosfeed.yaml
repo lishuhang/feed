@@ -5,7 +5,5 @@
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://rsshub.app/xiaohongshu/user/565abd1403eb843eb0ef217c/notes
+  - href: https://rsshub.app/zhihu/people/answers/lishuhang
