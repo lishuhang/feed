@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-30T02:31:00.907Z</id>
+    <id>urn:2024-01-31T01:06:46.391Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T02:31:00.907Z</updated>
+    <updated>2024-01-31T01:06:46.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -39,7 +39,7 @@
 有些随便给自己起了个用户名的玩家，在知道这一点之后后悔莫及。
 官方宣传材…]]></summary>
         <author>
-            <name>Mediumish</name>
+            <name>航通社</name>
         </author>
     </entry>
     <entry>
@@ -64,7 +64,7 @@
 3月份，李彦宏参加极客公园的直播，显得信心十足。他说，文心一言离 ChatGPT 版本，差距可能就是一两个月的差别。
 “按照团队现在的分析，我们水平差不多是 ChatGPT 今年…]]></summary>
         <author>
-            <name>Mediumish</name>
+            <name>航通社</name>
         </author>
     </entry>
 </feed>
